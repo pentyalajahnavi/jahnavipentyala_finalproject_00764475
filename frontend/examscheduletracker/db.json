@@ -1,0 +1,44 @@
+{
+  "ExamData": [
+    {
+      "course_id": 1,
+      "course_name": "Introduction to Programming",
+      "exam_date": "2024-05-10",
+      "exam_time": "9:00 AM - 12:00 PM",
+      "exam_venue": "Lecture Hall A",
+      "exam_duration": "3 hours"
+    },
+    {
+      "course_id": 2,
+      "course_name": "Data Structures and Algorithms",
+      "exam_date": "2024-05-12",
+      "exam_time": "2:00 PM - 5:00 PM",
+      "exam_venue": "Computer Lab 1",
+      "exam_duration": "3 hours"
+    },
+    {
+      "course_id": 3,
+      "course_name": "Operating Systems",
+      "exam_date": "2024-05-15",
+      "exam_time": "10:00 AM - 1:00 PM",
+      "exam_venue": "Lecture Hall B",
+      "exam_duration": "3 hours"
+    },
+    {
+      "course_id": 4,
+      "course_name": "Computer Networks",
+      "exam_date": "2024-05-17",
+      "exam_time": "9:30 AM - 12:30 PM",
+      "exam_venue": "Lecture Hall C",
+      "exam_duration": "3 hours"
+    },
+    {
+      "course_id": 5,
+      "course_name": "Database Systems",
+      "exam_date": "2024-05-20",
+      "exam_time": "1:00 PM - 4:00 PM",
+      "exam_venue": "Lecture Hall D",
+      "exam_duration": "3 hours"
+    }
+  ]
+}
